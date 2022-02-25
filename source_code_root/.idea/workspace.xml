@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8724475-b1d3-4329-a2f2-f02a5a5597d4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="source_code_project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/Maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="G:\Maven\store\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="21PoG3KbzcQub6c2Qc7BICJ9scT" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JUC_Semaphore/src/main/java/com/dlw" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="java.util.concurrent.locks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_workspace\source_code_root\JUC_Semaphore\src\main\java\com\dlw" />
+      <recent name="D:\IDEA_workspace\source_code_root\JUC_CyclicBarrier\src\test\java\com\dlw" />
+      <recent name="D:\IDEA_workspace\source_code_root\JUC_CountDownLatch\src\main\java\com\dlw\demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="CountDownLatchTest03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountDownLatchTest03" />
+      <module name="JUC_CountDownLatch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dlw.demo.CountDownLatchTest03" />
+      <module name="JUC_CountDownLatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dlw.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniArrayBrokingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dlw.MiniArrayBrokingQueue" />
+      <module name="JUC_Condition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dlw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="JUC_FutureTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dlw.Test" />
+      <module name="JUC_CyclicBarrier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dlw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.CountDownLatchTest03 (1)" />
+        <item itemvalue="Application.CountDownLatchTest03" />
+        <item itemvalue="Application.MiniArrayBrokingQueue" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8724475-b1d3-4329-a2f2-f02a5a5597d4" name="Default Changelist" comment="" />
+      <created>1637851983043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637851983043</updated>
+      <workItem from="1637851994474" duration="42000" />
+      <workItem from="1637889138647" duration="908000" />
+      <workItem from="1637928789285" duration="12409000" />
+      <workItem from="1637981116240" duration="1931000" />
+      <workItem from="1637988287254" duration="219000" />
+      <workItem from="1638069419419" duration="19587000" />
+      <workItem from="1638147265988" duration="569000" />
+      <workItem from="1638149248979" duration="769000" />
+      <workItem from="1638151630050" duration="8048000" />
+      <workItem from="1638239463584" duration="8343000" />
+      <workItem from="1638270233086" duration="11908000" />
+      <workItem from="1638322703878" duration="17373000" />
+      <workItem from="1638407151511" duration="16174000" />
+      <workItem from="1638535415815" duration="6885000" />
+      <workItem from="1638592520101" duration="16496000" />
+      <workItem from="1638764124925" duration="14786000" />
+      <workItem from="1638801661727" duration="97000" />
+      <workItem from="1638838898237" duration="12690000" />
+      <workItem from="1638933672393" duration="14803000" />
+      <workItem from="1639046877615" duration="1574000" />
+      <workItem from="1639138769047" duration="2065000" />
+      <workItem from="1639234434932" duration="1504000" />
+      <workItem from="1639276016701" duration="18325000" />
+      <workItem from="1639316814758" duration="2257000" />
+      <workItem from="1639361944912" duration="14213000" />
+      <workItem from="1639444112593" duration="11535000" />
+      <workItem from="1639487682895" duration="595000" />
+      <workItem from="1639492337122" duration="1949000" />
+      <workItem from="1639539542881" duration="15392000" />
+      <workItem from="1639639568858" duration="1479000" />
+      <workItem from="1639749364060" duration="1794000" />
+      <workItem from="1639804539349" duration="875000" />
+      <workItem from="1639962785878" duration="8229000" />
+      <workItem from="1640050249202" duration="15771000" />
+      <workItem from="1640136667911" duration="9524000" />
+      <workItem from="1640217699893" duration="1453000" />
+      <workItem from="1640233463121" duration="8868000" />
+      <workItem from="1640311684044" duration="2448000" />
+      <workItem from="1640314969083" duration="1202000" />
+      <workItem from="1640410561025" duration="10986000" />
+      <workItem from="1640478258667" duration="639000" />
+      <workItem from="1640527418030" duration="791000" />
+      <workItem from="1640576486552" duration="1907000" />
+      <workItem from="1640607662178" duration="611000" />
+      <workItem from="1640613843915" duration="102000" />
+      <workItem from="1640671123418" duration="8301000" />
+      <workItem from="1640703346454" duration="18000" />
+      <workItem from="1640832383811" duration="5178000" />
+      <workItem from="1641096370248" duration="7529000" />
+      <workItem from="1641188404545" duration="5706000" />
+      <workItem from="1641273562255" duration="569000" />
+      <workItem from="1642572929986" duration="2613000" />
+      <workItem from="1642658535614" duration="2503000" />
+      <workItem from="1642743135042" duration="21000" />
+      <workItem from="1645451395525" duration="1491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/concurrent/FutureTask.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>2748</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>2629</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

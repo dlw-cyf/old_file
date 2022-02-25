@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.dlw</groupId>
+    <artifactId>source_code_project</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0-SNAPSHOT</version>
+    <modules>
+        <module>JUC_LongAdder</module>
+        <module>JUC_FutureTask</module>
+        <module>JDK_HashMap</module>
+        <module>JUC_ThreadPoolExecutor</module>
+        <module>ReentrantLock</module>
+        <module>JUC_ReentrantLock</module>
+        <module>JUC_Condition</module>
+        <module>JUC_CountDownLatch</module>
+        <module>JUC_CyclicBarrier</module>
+        <module>JUC_Semaphore</module>
+        <module>JUC_ThreadLocal</module>
+    </modules>
+
+
+</project>

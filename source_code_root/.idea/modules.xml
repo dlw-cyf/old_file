@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JUC_Condition/JUC_Condition.iml" filepath="$PROJECT_DIR$/JUC_Condition/JUC_Condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC_CountDownLatch/JUC_CountDownLatch.iml" filepath="$PROJECT_DIR$/JUC_CountDownLatch/JUC_CountDownLatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC_CyclicBarrier/JUC_CyclicBarrier.iml" filepath="$PROJECT_DIR$/JUC_CyclicBarrier/JUC_CyclicBarrier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC_ReentrantLock/JUC_ReentrantLock.iml" filepath="$PROJECT_DIR$/JUC_ReentrantLock/JUC_ReentrantLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC_Semaphore/JUC_Semaphore.iml" filepath="$PROJECT_DIR$/JUC_Semaphore/JUC_Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC_ThreadLocal/JUC_ThreadLocal.iml" filepath="$PROJECT_DIR$/JUC_ThreadLocal/JUC_ThreadLocal.iml" />
+    </modules>
+  </component>
+</project>
